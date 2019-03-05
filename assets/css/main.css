@@ -2545,6 +2545,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		background-color: white;
 	}
 
 		.image img {
@@ -3889,4 +3890,9 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
+		}
+
+		.headshot {
+			display: block;
+			align-self: center;
 		}
